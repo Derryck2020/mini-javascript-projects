@@ -135,6 +135,12 @@ main {
     place-items: center;
     min-height: 100vh;
 }
+
+/*
+=================
+container
+=================
+*/
 .container {
     width: 90vw;
     max-width: var(--fixed-width);

@@ -153,16 +153,8 @@ button
     display: inline-block;
 }
 .btn:hover {
-    background: var(--primary-700);
-    box-shadow: var(--shadow-3);
-}
-.btn-hipster {
-    color: var(--primary-500);
-    background: var(--primary-200);
-}
-.btn-hipster:hover {
-    color: var(--primary-200);
-    background: var(--primary-700);
+    background: var(--primary-800);
+    box-shadow: var(--shadow-2);
 }
 
 .btn-block {
